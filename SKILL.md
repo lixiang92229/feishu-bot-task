@@ -7,7 +7,7 @@ metadata:
     bins: ["python3"]
     env: ["FEISHU_APP_ID", "FEISHU_APP_SECRET"]
   openclaw:
-    homepage: "https://gitcode.com/lixiang92229/feishu-bot-task"
+    homepage: "https://github.com/lixiang92229/feishu-bot-task"
 ---
 
 # feishu-task (Bot身份)
