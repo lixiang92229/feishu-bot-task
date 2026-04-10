@@ -1,5 +1,5 @@
 ---
-name: feishu-task
+name: feishu-bot-task
 version: 1.0.0
 description: "飞书任务（Bot身份）：使用Bot/应用身份管理飞书任务，创建任务、查询任务列表、更新状态、分配成员等。本Skill专门使用v1 API，Bot身份可直接调用，解决了lark-task官方Skill使用v2接口无法支持Bot身份的问题。当需要以Bot身份（应用身份）操作任务时使用本Skill。"
 metadata:
@@ -7,7 +7,7 @@ metadata:
     bins: ["python3"]
     env: ["FEISHU_APP_ID", "FEISHU_APP_SECRET"]
   openclaw:
-    homepage: "https://gitcode.com/lixiang92229/feishu-task"
+    homepage: "https://gitcode.com/lixiang92229/feishu-bot-task"
 ---
 
 # feishu-task (Bot身份)
